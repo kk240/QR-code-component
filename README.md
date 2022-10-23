@@ -15,8 +15,8 @@ QR code component solution
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/kk240/QR-code-component
+- Live Site URL: https://kk240.github.io/QR-code-component/
 
 ### Built with
 
